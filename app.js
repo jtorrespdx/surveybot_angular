@@ -1,1 +1,1 @@
-var surveybot = angular.module('surveybot', []);
+var surveyBot = angular.module('surveyBot', []);
